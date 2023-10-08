@@ -1,4 +1,4 @@
-use gossip_glommers::*;
+use gossip_glomers::*;
 
 use anyhow::Context;
 use rand::prelude::*;
